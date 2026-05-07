@@ -26,7 +26,7 @@
     "english": "Oh? You're approaching me?",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -236,7 +236,7 @@
     "english": "I think you should just laugh.",
     "anime": "Neon Genesis Evangelion",
     "character": "Rei Ayanami",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -536,7 +536,7 @@
     "english": "Yes! Yes! Yes! Yes! (alt wording 2)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1406,7 +1406,7 @@
     "english": "You are already dead",
     "anime": "Fist of the North Star",
     "character": "Kenshiro",
-    "issued": false,
+    "issued": true,
     "completed": false,
     "completedBy": "leeydev",
     "completedPR": 15015
